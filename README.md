@@ -1,5 +1,5 @@
 Đây là file .bin bluejammer dành cho esp32 c3 supermini
-Mã nguồn đóng (phải có mật khẩu để lấy mã nguồn)
+               Mã nguồn đóng (phải có mật khẩu để lấy mã nguồn)
 Sơ đồ chân nối như sau:
 
 ESP32        NRF24L01+
