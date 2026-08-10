@@ -1,0 +1,9 @@
+GPIO4  --- SCK
+
+GPIO5  --- MISO
+
+GPIO6  --- MOSI
+
+GPIO20 --- CE
+
+GPIO21 --- CSN
