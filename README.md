@@ -1,7 +1,6 @@
 LƯU Ý: Dự án này chỉ phục vụ cho mục đích giáo dục và kiểm thử bảo mật ,sử dụng vào việc khác có thể VI PHẠM PHÁP LUẬT tại hầu hết các quốc gia (bao gồm cả Việt Nam)
 
 
-
 Đây là code bluejammer mà tôi đã làm riêng cho esp32 c3 supermini (tôi chọn board LOLIN C3 mini)
 Code này có support cả 2nrf và 1 nrf đối với phiên bản V3
 đây là flash offset cho ae
