@@ -17,9 +17,8 @@ firmware.bin     -  0x10000
 
 Tôi không có web flasher riêng nên ae tải file .bin sau đó tự flash
 
-sơ đồ nối như sau (dành cho phiên bản V3)
+sơ đồ nối như sau (dành cho phiên bản V3,Đối với phiên bản V1 và V2 hãy nối theo sơ đồ (NRF24 1))
 
-Đối với phiên bản V1 và V2 hãy nối theo sơ đồ (NRF24 1)
 
 SPI của nrf24 đều nối chung nếu dùng 2 mạch nrf24
 
