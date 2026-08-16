@@ -16,7 +16,7 @@ Tôi không có web flasher riêng nên ae tải file .bin sau đó tự flash
 
 sơ đồ nối như sau (dành cho phiên bản V3)
 
-SPI của nrf24 đều nối chung
+SPI của nrf24 đều nối chung nếu dùng 2 mạch nrf24
 
 
 (NRF24) SCK  -  GPIO4 (esp32)
