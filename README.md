@@ -1,5 +1,5 @@
 Đây là code bluejammer mà tôi đã làm riêng cho esp32 c3 supermini (tôi chọn board LOLIN C3 mini)
-Code này có support cả 2nrf và 1 nrf đối với phiên bản V3
+Code này có support cả 2nrf và 1 nrf
 đây là flash offset cho ae
 
 
@@ -15,7 +15,7 @@ firmware.bin     -  0x10000
 sơ đồ nối như sau
 
 
-SPI của nrf24 đều nối chung nếu dùng 2 mạch nrf24
+SPI của nrf24 đều nối chung
 
 
 (NRF24) SCK  -  GPIO4 (esp32)
