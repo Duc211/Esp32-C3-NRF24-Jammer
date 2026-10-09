@@ -1,6 +1,9 @@
 #ĐANG BẢO TRÌ NÊN HIỆN TẠI CHƯA CÓ FIRMWARE !!
+
 |
+
 |   SPI BUS   |
+
 SCK  -  GPIO4
 
 MISO -  GPIO5
