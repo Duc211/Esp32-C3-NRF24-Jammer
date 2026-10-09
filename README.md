@@ -2,7 +2,7 @@
 
 |
 
-|   SPI BUS   |
+|   SPI BUS  nối chung  |
 
 SCK  -  GPIO4
 
