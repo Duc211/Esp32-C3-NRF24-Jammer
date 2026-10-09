@@ -39,5 +39,6 @@ SDA - GPIO 9
 |
 
 FW by Đức
-thấy hay thì cho 1 sao
+
+Thấy hay thì cho 1 sao
 
