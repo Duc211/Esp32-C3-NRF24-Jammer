@@ -30,6 +30,8 @@ CE3   - GPIO2
 
 CSN3  - GPIO3
 
+|
+
 | màn 0.96" SSD1306 | 
 
 SCL - GPIO 8
