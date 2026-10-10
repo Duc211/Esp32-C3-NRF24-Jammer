@@ -24,27 +24,13 @@ Thiết bị này chỉ nên dùng cho:
 
 Bạn hoàn toàn chịu trách nhiệm pháp lý về việc sử dụng FW này. 
 
-                             === Nối dây ===
-                          +--------------------+   
-     SPI BUS (Chung) ---> | GPIO4  (SCK)       |---> SCK của 3x nRF24
-                          | GPIO6  (MISO)      |<--- MISO của 3x nRF24
-                          | GPIO5  (MOSI)      |---> MOSI của 3x nRF24
-                          |                    |
-     nRF24 #1 ----------> | GPIO20 (CE1)       |---> CE  của nRF24 số 1
-                          | GPIO21 (CSN1)      |---> CSN của nRF24 số 1
-                          |                    |
-     nRF24 #2 ----------> | GPIO7  (CE2)       |---> CE  của nRF24 số 2
-                          | GPIO10 (CSN2)      |---> CSN của nRF24 số 2
-                          |                    |
-     nRF24 #3 ----------> | GPIO2  (CE3)       |---> CE  của nRF24 số 3
-                          | GPIO3  (CSN3)      |---> CSN của nRF24 số 3
-                          |                    |
-     OLED 0.96" --------> | GPIO0  (SCL)       |---> SCL của màn OLED
-                          | GPIO9  (SDA)       |---> SDA của màn OLED
-                          |                    |
-                 -------> | 3.3V & GND         |---> cấp nguồn cho màn OLED
-                 |        |                    |
-     Nguồn 5V1A -+------> | 5V & GND           |---> cấp nguồn cho ESP32-C3 
-                 |        |                    |
-                 -------> | 3.3V & GND         |---> cấp nguồn cho 3 con NRF24 (nên thêm tụ 100uf cho mỗi con)
-                          +--------------------+
+
+                          +----Nguồn điện-----+
+                 -------> |3.3V & GND---------|---> cấp nguồn cho màn OLED
+                 |        |                   |
+     Nguồn 5V1A -+------> |5V & GND-----------|---> cấp nguồn cho ESP32-C3 
+                 |        |                   |
+                 ------>  |5V & GND---> AMS1117 3.3--> cấp nguồn cho 3 con NRF24 (nên thêm tụ 100uf cho mỗi con)
+                          +-------------------+
+
+<img width="625" height="537" alt="ảnh" src="https://github.com/user-attachments/assets/0c70aca3-9c2d-4ca4-b0fd-6101072c2bd0" />
