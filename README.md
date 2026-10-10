@@ -25,12 +25,12 @@ Thiết bị này chỉ nên dùng cho:
 Bạn hoàn toàn chịu trách nhiệm pháp lý về việc sử dụng FW này. 
 
 
-                          +----Nguồn điện-----+
-                 -------> |3.3V & GND---------|---> cấp nguồn cho màn OLED
-                 |        |                   |
-     Nguồn 5V1A -+------> |5V & GND-----------|---> cấp nguồn cho ESP32-C3 
-                 |        |                   |
-                 ------>  |5V & GND---> AMS1117 3.3--> cấp nguồn cho 3 con NRF24 (nên thêm tụ 100uf cho mỗi con)
-                          +-------------------+
+                        +----Nguồn điện-----+
+                 -----> |3.3V & GND---------|---> cấp nguồn cho màn OLED
+                 |      |                   |
+     Nguồn 5V1A -+----> |5V & GND-----------|---> cấp nguồn cho ESP32-C3 
+                 |      |                   |
+                 ---->  |5V & GND---> AMS1117 3.3--> cấp nguồn cho 3 con NRF24 (nên thêm tụ 100uf)
+                        +-------------------+
 
 <img width="625" height="537" alt="ảnh" src="https://github.com/user-attachments/assets/0c70aca3-9c2d-4ca4-b0fd-6101072c2bd0" />
