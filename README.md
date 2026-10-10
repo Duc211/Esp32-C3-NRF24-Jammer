@@ -1,5 +1,3 @@
-#ĐANG THỬ NGHIỆM NÊN HIỆN TẠI CHƯA CÓ FIRMWARE !!
-
  ⚠️ Cảnh báo pháp lý — ĐỌC CHO KỸ VÀO
 
 Việc gây nhiễu sóng vô tuyến là hành vi vi phạm pháp luật tại Việt Nam:
