@@ -21,3 +21,4 @@ Tải và dùng 'firmware.lang-vn.bin' để có serial tiếng Viêt
 
 <img width="1366" height="768" alt="20261024_10h50m51s_grim" src="https://github.com/user-attachments/assets/69c767ae-700c-4fae-be1f-d42f2db8b704" />
 
+Nào t vui thì công khai mã nguồn ko thì thôi
