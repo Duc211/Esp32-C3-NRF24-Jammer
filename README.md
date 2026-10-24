@@ -31,4 +31,6 @@ Bạn hoàn toàn chịu trách nhiệm pháp lý về việc sử dụng FW nà
                  ---->  |5V & GND---> AMS1117 3.3--> cấp nguồn cho 3 con NRF24 (nên thêm tụ 100uf)
                         +-------------------+
 
-<img width="625" height="537" alt="ảnh" src="https://github.com/user-attachments/assets/0c70aca3-9c2d-4ca4-b0fd-6101072c2bd0" />
+
+<img width="1366" height="768" alt="20261024_10h50m51s_grim" src="https://github.com/user-attachments/assets/69c767ae-700c-4fae-be1f-d42f2db8b704" />
+
