@@ -2,8 +2,6 @@
  
 ❌ KHÔNG gây nhiễu WiFi tại nơi công cộng, thiết bị của người khác
 
-❌ KHÔNG dùng ở nơi công cộng, gần sân bay, bệnh viện 
-
 Bạn hoàn toàn chịu trách nhiệm pháp lý về việc sử dụng firmware này. 
 
 Download and install 'firmware.lang-en.bin' for English serial
